@@ -22,7 +22,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="315dp"
         android:onClick="increase"
-        android:text="increment" />
+        android:text="Increment" />
 
     <Button
         android:id="@+id/btn1"
@@ -31,7 +31,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="182dp"
         android:onClick="decrease"
-        android:text="decrement" />
+        android:text="Decrement" />
 
     <Button
         android:id="@+id/btn2"
